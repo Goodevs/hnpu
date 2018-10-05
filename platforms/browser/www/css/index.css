@@ -150,6 +150,20 @@ main {
   font-weight: 900;
 }
 
+.btn {
+  background: #2a2a2a;
+  color: #fff;
+  margin: auto;
+  width: 90%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 900;
+}
+
 .rounded-center {
   display: flex;
   width: 40px;
@@ -270,7 +284,7 @@ nav img {
 /* settings */
 select {
   width: 90%;
-  height: 30px;
+  height: 70px;
   margin: auto;
   padding-left: 20px;
   border: 0;
